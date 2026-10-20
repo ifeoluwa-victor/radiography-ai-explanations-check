@@ -23,14 +23,14 @@ A student project where I take AI-style statements about radiography and ultraso
 
 If I cannot find a source, I write "not verified". I do not invent citations.
 
-## Files (being added)
-- `examples.md`: 5 AI-style statements with the type of problem in each
-- `verification-log.md`: the table where I record my checks
-- `references.md`: where I look for sources
-- `clinical-supervision.md`: why professional judgement matters
+## Files
+- `examples.md`: 5 AI-style statements, the problem in each, and a corrected explanation
+- `verification-log.md`: the table where I record the source checked for each example
+- `references.md`: the sources used
+- `clinical-supervision.md`: why professional judgement still matters
 
 ## Status
-In progress. Files are being added.
+All files are added. I reviewed the examples and sources as I built them.
 
 ## Limits
 I am a student. These examples are for learning and are not medical advice.
